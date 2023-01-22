@@ -1,0 +1,3 @@
+# KDMotoshop-POS-WIP-
+
+READE FILE foR APPDEV
